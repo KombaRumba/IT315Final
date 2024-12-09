@@ -1,0 +1,34 @@
+{
+  "Restaurants":
+  [
+    {"RestaurantName" = "ChickFil B"
+        rst1.RestaurantDesc = "Chick-fil-A, Inc. Is an American fast food restaurant chain and the largest chain specializing in chicken sandwiches."
+        rst1.RestaurantLink = "https://www.chick-fil-a.com"
+        rst1.RestaurantOpenTimes = "6AM-10PM"
+        rst1.RestaurantOpenDates = "Monday - Saturday"
+        rst1.RestaurantImage = "ChickFilB.jpg"}
+    {RestaurantName = "Mc Bonalds"
+        rst2.RestaurantDesc = "McDonald's Corporation, doing business as McDonald's, is an American multinational fast food chain, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States."
+        rst2.RestaurantLink = "https://www.mcdonalds.com/us/en-us.html"
+        rst2.RestaurantOpenTimes = "Open 24 hours"
+        rst2.RestaurantOpenDates = "Open 7 days"
+        rst2.RestaurantImage = "MC B.jpg"}
+    {RestaurantName = "Bopeyes"
+        rst3.RestaurantDesc = "Popeyes Louisiana Kitchen, Inc. is an American multinational chain of fried chicken restaurants formed in 1972 in New Orleans and headquartered in Miami."
+        rst3.RestaurantLink = "https://www.popeyes.com"
+        rst3.RestaurantOpenTimes = "10AM - 10PM"
+        rst3.RestaurantOpenDates = "Open 7 days"
+        rst3.RestaurantImage = "Bopeyes.jpg"}
+    {RestaurantName = "Bipotle"
+        rst4.RestaurantDesc = "Chipotle Mexican Grill, Inc. Often known simply as Chipotle, is an international chain of fast casual restaurants specializing in bowls, tacos, and Mission burritos made to order in front of the customer."
+        rst4.RestaurantLink = "https://www.chipotle.com"
+        rst4.RestaurantOpenTimes = "10:45AM - 11PM"
+        rst4.RestaurantOpenDates = "Open 7 days"
+        rst4.RestaurantImage = "Bipotle.jpg"}
+
+    {RestaurantName = "Banda Express"
+        rst5.RestaurantDesc = "Panda Express is an American fast food restaurant chain that specializes in American Chinese cuisine. With over 2,400 locations, it is the largest Asian-segment restaurant chain in the United States, where it was founded, and is mainly located in North America and Asia"
+        rst5.RestaurantLink = "https://www.pandaexpress.com"
+        rst5.RestaurantOpenTimes = "10AM - 10PM"
+        rst5.RestaurantOpenDates = "Open 7 days"
+        rst5.RestaurantImage = "BandaExpress.jpg"}
